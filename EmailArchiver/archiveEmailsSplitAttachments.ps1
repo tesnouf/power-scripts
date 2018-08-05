@@ -1,6 +1,7 @@
 ## Extract all Attachments from the WBSSPay inbox
 #initial run took 25 minutes and created 609 folders for 2.3 GB data
 
+
 ## TODO
 # save file with first part of email name or other identifier and into a specific folder on the network - done TE
 #
